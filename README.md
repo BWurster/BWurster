@@ -5,9 +5,9 @@
 # Hi there, I'm Ben 👋
 
 ## I am currently a student at University of Wisconsin-Madison, studying Mechanical Engineering, Computer Science, and Mathematics
-- 🔭 I’m currently working on my coursework
-- 🌱 I’m currently learning about tools to facilitate software development and data processing
-- 🤔 I’m looking for help with any tips and tricks that are helpful to someone with little to no experience.
+- 🔭 I’m currently working on Spring semester of my junior year.
+- 🌱 I’m currently learning about blockchain, linux and software security, and machine learning
+- 🤔 I’m looking for people to talk about projects with.
 - 💬 Ask me about my projects, family and friends, or my ambitions for the future.
 
 ## Connect with me:
