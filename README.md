@@ -4,10 +4,10 @@
 
 # Hi there, I'm Ben 👋
 
-## I am currently a student at University of Wisconsin-Madison, studying Mechanical Engineering, Computer Science, and Mathematics
-- 🔭 I’m currently working on the spring semester of my junior year.
-- 🌱 I’m currently learning about blockchain, linux and software security, and machine learning
-- 🤔 I’m looking for people to talk about projects with.
+## I am currently a 4th year student at University of Wisconsin-Madison, studying Mechanical Engineering, Computer Science, and Mathematics
+- 🔭 I’m currently working at BAE Systems on embedded software.
+- 🌱 I’m currently learning about Web3 software development, advanced Linux and software security, and basic electronic engineering.
+- 🤔 I’m looking for people to talk about projects with and learn from.
 - 💬 Ask me about my projects, family and friends, or my ambitions for the future.
 
 ## Connect with me:
