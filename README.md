@@ -12,5 +12,5 @@
 
 ## Connect with me:
 - **Email:** <bwurster@wisc.edu>
-- **Personal Projects Website:** <https://benwursterprojects.com>
+- **Personal Projects Website:** <https://benwurster.com>
 - **[LinkedIn](https://www.linkedin.com/in/benjamin-wurster/)**
