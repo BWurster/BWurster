@@ -6,7 +6,7 @@
 
 ## I am a 2023 graduate of the University of Wisconsin-Madison with a B.S. in Mechanical Engineering and additional majors in Computer Science and Mathematics
 - 🔭 I’m currently working on expanding my website.
-- 🌱 I’m currently learning about electrical engineering and acoustics.
+- 🌱 I’m currently learning about electrical engineering, Rust, video editing, and AI.
 - 🤔 I’m looking for people to talk about projects with and learn from.
 - 💬 Ask me about my projects, hobbies, or ambitions for the future.
 
